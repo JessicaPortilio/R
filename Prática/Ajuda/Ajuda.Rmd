@@ -1,0 +1,6 @@
+Ajuda
+```{r}
+help(sd)
+head(iris) #ou vc coloca o curso na posição desejada e presione a tecla F1
+```
+
