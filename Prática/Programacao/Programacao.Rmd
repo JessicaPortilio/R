@@ -39,5 +39,6 @@ parouimpar <- function(x){
 }
 
 parouimpar(5)
+parouimpar(12)
 ```
 
